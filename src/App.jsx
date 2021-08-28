@@ -6,7 +6,7 @@ import logo from "./timer.svg";
 function App() {
   return (
     <div className="App">
-      <GitHubUser username="cassidoo" />
+      <GitHubUser username="Codemaine" />
       <Thymer />
       <img src={logo} className="logo" alt="logo" />
     </div>
